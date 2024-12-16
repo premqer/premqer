@@ -2,7 +2,7 @@
 
 **`Front-end developer`**
 
-I’m an independent front-end developer, focused on creating smooth and functional user experiences. I build every project from scratch, starting with design and planning, and turning ideas into practical, well-coded solutions. I like to explore different paths and technologies, experimenting with various frameworks and tools to find the best approach for each project. My goal is to make the web easier to use, one project at a time.
+__Hi there 👋, my name is Vlad__
 
 ---
 
