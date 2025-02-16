@@ -2,7 +2,7 @@
 
 **`Front-end developer`**
 
-__Hi there 👋, my name is Vlad__
+__Hi there 👋__
 
 ---
 
@@ -21,7 +21,7 @@ __Hi there 👋, my name is Vlad__
 
 #
 
-Vlad is a Frontend Developer with 1.5 years of experience in software development. Proficient in JavaScript, React, TypeScript, and TailwindCSS, he is also familiar with SQL and Node.js. Passionate about crafting seamless user interfaces, Vlad enjoys building web applications, learning new technologies, and collaborating with developers to bring ideas to life.
+I'm a Frontend Developer with 1.5 years of experience in software development. Proficient in JavaScript, React, TypeScript, and TailwindCSS, I'm is also familiar with SQL and Node.js. Passionate about crafting seamless user interfaces, I also enjoy building web applications, learning new technologies.
 
 * 🔭 I’m currently working on my own projects
 * 🌱 I’m currently learning how to be a better developer
