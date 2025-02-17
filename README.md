@@ -21,7 +21,7 @@ __Hi there 👋__
 
 #
 
-I'm a Frontend Developer with 1.5 years of experience in software development. Proficient in JavaScript, React, TypeScript, and TailwindCSS, I'm also familiar with SQL and Node.js. Passionate about crafting seamless user interfaces, I also enjoy building web applications, learning new technologies.
+I'm a Frontend Developer with 1.5 years of experience in software development. Proficient in JavaScript, React, TypeScript, and TailwindCSS, I'm also familiar with SQL and Node.js. Passionate about crafting seamless user interfaces, I also enjoy building web applications and learning new technologies.
 
 * 🔭 I’m currently working on my own projects
 * 🌱 I’m currently learning how to be a better developer
